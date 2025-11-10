@@ -37,15 +37,47 @@
 ---
 
 ### 📈 GitHub Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurgadade&show_icons=true&theme=radical" alt="GitHub Stats" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mayurgadade&theme=radical&hide_border=true" alt="GitHub Streak" height="150px"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgadade&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
-</p>
+<!-- Profile summary -->
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurgadade&theme=radical"
+  alt="Mayur Gadade's GitHub Contribution Graph"
+  height="200"
+/>
+
+<!-- Stats + Streak -->
+<br/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=mayurgadade&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&line_height=28"
+  alt="GitHub Stats"
+  height="180"
+/>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=mayurgadade&theme=tokyonight&hide_border=true&border_radius=10"
+  alt="GitHub Streak"
+  height="180"
+/>
+
+<!-- Top Languages -->
+<br/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgadade&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+  alt="Top Languages"
+  height="180"
+/>
+
+<!-- Trophy Section -->
+<br/>
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=mayurgadade&theme=onestar&no-frame=true&row=1&column=6"
+  alt="GitHub Trophies"
+  height="120"
+/>
+
+</div>
 
 ---
 
