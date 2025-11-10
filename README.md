@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Mayur 👋
 
-<!--
-**MayurGadade/MayurGadade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** passionate about building web apps that make life easier.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- 💻 Languages: JavaScript, TypeScript, Python  
+- 🌐 Frontend: React, Next.js, Tailwind CSS, ShadCN UI  
+- ⚙️ Backend: Node.js, Express.js, MongoDB  
+- 🧠 Currently learning: TanStack Query, Testing  
+- ☁️ Tools: Docker, Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 Featured Projects
+- 🏟️ [Ground Booking System](https://github.com/yourusername/ground-booking-system) — Book and manage turf grounds online  
+- 🏡 [StayVista Clone](https://github.com/yourusername/stayvista-clone) — Villa booking platform  
+- 🛍️ [E-commerce Site](https://github.com/yourusername/ecommerce-app) — MERN-based online store
+
+---
+
+### 📊 GitHub Stats
+![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurgadade&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+- 📧 Email: yourname@example.com  
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+- 🐦 [Twitter](https://twitter.com/yourusername)  
+- 🌍 [Portfolio](https://yourportfolio.com)
+
+---
+
+⭐️ From [mayurgadade](https://github.com/mayurgadade)
