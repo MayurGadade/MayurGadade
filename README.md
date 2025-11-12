@@ -12,7 +12,7 @@
 ### 💫 About Me
 - 🎓 Computer Science graduate  
 - 💻 Full Stack Developer specialized in **MERN stack**  
-- 🧩 Currently exploring **TanStack Query** & **Testing**  
+- 🧩 Currently exploring **Gen AI** & **Testing**  
 - ⚡ Love building **high-quality UIs** with **ShadCN UI**, **Magic UI**, and **Tailwind CSS**  
 - 💳 Integrated **Razorpay payments** and **webhooks** in multiple projects  
 - 🌍 Passionate about civic-tech and real-world impact projects like **Revoice**
@@ -86,7 +86,7 @@
   <a href="https://www.linkedin.com/in/mayurgadade" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yourname@example.com" target="_blank">
+  <a href="mailto:mayurgadade3011@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mayurgadade" target="_blank">
