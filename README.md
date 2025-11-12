@@ -23,8 +23,8 @@
 **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, ShadCN UI  
 **Backend:** Node.js, Express.js, MongoDB (Mongoose)  
 **Payments:** Razorpay, Stripe  
-**Tools & DevOps:** Docker, Git, Listmonk, Novu  
-**Learning:** TanStack Query, Testing (Jest, Vitest)
+**Tools & DevOps:** Docker, Git, Listmonk, Novu, n8n,  
+**Learning:** Docker, n8n
 
 ---
 
